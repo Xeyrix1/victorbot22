@@ -5,14 +5,6 @@
 <p align="center">
   <a href="https://github.com/victorbot22"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=My+Name+Is+victor+bot;Give+star+and+forks+this+Repo;Follow+My+Github;Arigatou >_<" alt="UwU">
 </p>
-
-<p align="center">
- <a href="#"><img title="victorbot22" src="https://img.shields.io/badge/victorbot22-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-victorbot22-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6285172446692">
