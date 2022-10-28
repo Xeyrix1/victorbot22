@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">victor bot</h1>
 <p align="center">
-  <a href="https://github.com/victorbot22"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=My+Name+Is+victor+bot;Give+star+and+forks+this+Repo;Follow+My+Github;Arigatou >_<" alt="UwU">
+  <a href="https://github.com/victorbot22"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=My+Name+Is+victor+bot;Give+star+and+forks+this+Repo;Follow+My+Github;Arigatou+>_<" alt="UwU">
 </p>
 
 ---------
